@@ -1,0 +1,10 @@
+name: Exmep
+version: 1.0
+main: org.al9.exmep.ExmepPlugin
+api-version: 1.16
+author: Al9
+
+commands:
+  exmep:
+    description: Execute commands or chat messages as another player.
+    usage: /exmep <player> [say|command] <message> or /exmep -sudo <player> [say|command] <message>
